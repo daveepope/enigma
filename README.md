@@ -3,7 +3,7 @@ A dotnet implementation of an Enigma cypher, specifically the Enigma Mark 3, whi
 
 Enigma is a symmetrical encryption cypher. This means the same Enigma key (settings) can be used to encrypt and then decrypt a message. 
 
-To run, clone the repo. There is a console application (a digital Enigma Machine) that you can use to to enter plaintext to produce cypher text. You can use another Engima machine to then decrypt that message.
+To run, clone the repo. There is a console application (a digital Enigma Machine) that you can use to to enter plaintext to produce cypher text. You can use another Engima machine to then decrypt that message. Please note you will need to install the dotnet sdk in order the run your Enigma machines.
 
 Operator Instructions:
 
